@@ -5,6 +5,7 @@
 # Generally I don't write any!
 
 def gem
-    puts "This is an awesome gem!"
+    puts "This is a shiny gem!"
+    puts " Well not really, it's not actually a gem at all... :("
 end 
 
